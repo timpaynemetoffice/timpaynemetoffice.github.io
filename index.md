@@ -1,3 +1,4 @@
+![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timpaynemetoffice/timpaynemetoffice.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,7 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
