@@ -8,7 +8,7 @@ Published by _Monthly Weather Review_, December 2020
 
 
 * "Hourly 4D-Var in the Met Office UKV operational forecast model"
-M Milan + 14 others including T J Payne<br> 
+M Milan + 14 others including T J Payne,  
 _Quarterly Journal of the Royal Meteorological Society_
 Volume 146, Issue728, pages 1281-1301, April 2020 
 [Link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3737)
