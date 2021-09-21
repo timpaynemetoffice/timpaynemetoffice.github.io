@@ -43,7 +43,7 @@ Lorenc, A.C. and Payne, T. <br>
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 133 NO. 624
 pp.607-614, 2007 <a href="http://onlinelibrary.wiley.com/doi/10.1002/qj.36/abstract">link</a>
 
-*"The Met Office global four-dimensional variational data assimilation scheme" <br>
+* "The Met Office global four-dimensional variational data assimilation scheme" <br>
 Rawlins, F., Ballard, S.P., Bovis, K.J., Clayton, A.M.,	Li, D.,	Inverarity, G.W., Lorenc, A.C. and Payne, T.J.<br> 
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 133 NO. 623 
 pp.347-362, 2007 <a href="http://onlinelibrary.wiley.com/doi/10.1002/qj.32/abstract">link</a>
