@@ -1,14 +1,12 @@
 ![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
 ## Some light reading
-* 
-"A hybrid differential-ensemble linear forecast model for 4D-Var"<br>
+* "A hybrid differential-ensemble linear forecast model for 4D-Var"<br>
 by T. J. Payne
 Published by _Monthly Weather Review_, December 2020
 [Link](https://journals.ametsoc.org/view/journals/mwre/149/1/mwr-d-20-0088.1.xml)
 
 
-*
-"Hourly 4D-Var in the Met Office UKV operational forecast model"
+* "Hourly 4D-Var in the Met Office UKV operational forecast model"
 M Milan + 14 others including T J Payne 
 _Quarterly Journal of the Royal Meteorological Society_
 Volume 146, Issue728, pages 1281-1301, April 2020 
@@ -16,14 +14,13 @@ Volume 146, Issue728, pages 1281-1301, April 2020
 
 
 
-*
-"Rapid Update Cycling with Delayed Observations"<br>
+* "Rapid Update Cycling with Delayed Observations"<br>
 Tim Payne<br>
 <i>Tellus, Series A: Dynamic Meteorology and Oceanography</i> Volume 69, 2017 - Issue 1
 <a href="http://www.tandfonline.com/doi/abs/10.1080/16000870.2017.1409061">link</a>
 <br><br>
 
-<li>
+<ul><li>
 "Computing an ensemble of variational data assimilations using its mean and perturbations"<br>
 Lorenc, A. C., Jardak, M., Payne, T., Bowler, N. E. and Wlasak, M. A<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i> 
@@ -31,45 +28,39 @@ Volume 143, Issue 703, pages 798-805, January 2017
 <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/qj.2965/abstract">link</a>
 <br><br>
 
-<li>
-"The Linearisation of Maps in Data Assimilation"<br>
+<li> "The Linearisation of Maps in Data Assimilation"<br>
 Tim Payne<br>
 <i>Tellus, Series A: Dynamic Meteorology and Oceanography</i> Volume 65, April 2013
 <a href="http://www.tandfonline.com/doi/abs/10.3402/tellusa.v65i0.18840">link</a>
 <br><br>
 
-<li>
-"A methodology for forming components of the linear model in 4D-Var with
+<li> "A methodology for forming components of the linear model in 4D-Var with
 application to the marine boundary layer"<br>
 Tim Payne<br>
 <i>Atmospheric Science Letters</i> Volume 10, Issue 4, Pages 255 - 261, December 2009
 <a href="http://onlinelibrary.wiley.com/doi/10.1002/asl.234/abstract">link</a>
 
-<br><br>
-<li>
-"Stability of the Semi-implicit Semi-Lagrangian
+
+<li> "Stability of the Semi-implicit Semi-Lagrangian
  Discretization of the Fully Compressible Equations"<br>
 Payne, T.J.<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i> Volume 134, Issue 632, Pages 781-788, April 2008 Part A
 <a href="http://onlinelibrary.wiley.com/doi/10.1002/qj.227/abstract">link</a>
 
-<br><br>
-<li>
-"4D-Var and the butterfly effect: statistical four-dimensional data assimilation for a wide range of scales"<br>
+
+<li> "4D-Var and the butterfly effect: statistical four-dimensional data assimilation for a wide range of scales"<br>
 Lorenc, A.C. and Payne, T. <br>
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 133 NO. 624
 pp.607-614, 2007 <a href="http://onlinelibrary.wiley.com/doi/10.1002/qj.36/abstract">link</a>
 
-<br><br>
-<li>
-"The Met Office global four-dimensional variational data assimilation scheme" <br>
+
+<li> "The Met Office global four-dimensional variational data assimilation scheme" <br>
 Rawlins, F., Ballard, S.P., Bovis, K.J., Clayton, A.M.,	Li, D.,	Inverarity, G.W., Lorenc, A.C. and Payne, T.J.<br> 
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 133 NO. 623 
 pp.347-362, 2007 <a href="http://onlinelibrary.wiley.com/doi/10.1002/qj.32/abstract">link</a>
 
-<br><br>
-<li>
-"Singular vectors and excess growths in semi-implicit non-hydrostatic models"<br>
+
+<li> "Singular vectors and excess growths in semi-implicit non-hydrostatic models"<br>
 Payne, T.J.<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 132 NO. 619 
 pp.2087-2094, 2006 <a href="http://onlinelibrary.wiley.com/doi/10.1256/qj.05.52/abstract">link</a>
