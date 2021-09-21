@@ -23,11 +23,11 @@ _Tellus, Series A: Dynamic Meteorology and Oceanography_ Volume 69, 2017 - Issue
 Lorenc, A. C., Jardak, M., Payne, T., Bowler, N. E. and Wlasak, M. A<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i> 
 Volume 143, Issue 703, pages 798-805, January 2017 
-<a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/qj.2965/abstract">link</a><br>
+<a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/qj.2965/abstract">link</a><br><br>
 
 <li> "The Linearisation of Maps in Data Assimilation" Tim Payne<br>
 <i>Tellus, Series A: Dynamic Meteorology and Oceanography</i> Volume 65, April 2013
-<a href="http://www.tandfonline.com/doi/abs/10.3402/tellusa.v65i0.18840">link</a><br>
+<a href="http://www.tandfonline.com/doi/abs/10.3402/tellusa.v65i0.18840">link</a><br><br>
 
 <li> "A methodology for forming components of the linear model in 4D-Var with
 application to the marine boundary layer" Tim Payne<br>
