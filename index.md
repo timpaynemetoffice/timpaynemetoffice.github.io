@@ -1,4 +1,5 @@
-![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
+![IMG_2358s](https://user-images.githubusercontent.com/61735396/134172964-fc56ed9c-df94-436a-b9d2-dfe6c6e31c3c.jpg)
+
 ## Some light reading
 * "A hybrid differential-ensemble linear forecast model for 4D-Var"
 by T. J. Payne<br>
