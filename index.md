@@ -1,24 +1,26 @@
 ![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
 ## Some light reading
-* "A hybrid differential-ensemble linear forecast model for 4D-Var"<br>
-by T. J. Payne
+* "A hybrid differential-ensemble linear forecast model for 4D-Var"
+by T. J. Payne  
+
 Published by _Monthly Weather Review_, December 2020
 [Link](https://journals.ametsoc.org/view/journals/mwre/149/1/mwr-d-20-0088.1.xml)
 
 
 * "Hourly 4D-Var in the Met Office UKV operational forecast model"
-M Milan + 14 others including T J Payne 
+M Milan + 14 others including T J Payne  
+
 _Quarterly Journal of the Royal Meteorological Society_
 Volume 146, Issue728, pages 1281-1301, April 2020 
 [Link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3737)
 
 
 
-* "Rapid Update Cycling with Delayed Observations"<br>
-Tim Payne<br>
-<i>Tellus, Series A: Dynamic Meteorology and Oceanography</i> Volume 69, 2017 - Issue 1
+* "Rapid Update Cycling with Delayed Observations"
+Tim Payne  
+
+_Tellus, Series A: Dynamic Meteorology and Oceanography_ Volume 69, 2017 - Issue 1
 <a href="http://www.tandfonline.com/doi/abs/10.1080/16000870.2017.1409061">link</a>
-<br><br>
 
 <ul><li>
 "Computing an ensemble of variational data assimilations using its mean and perturbations"<br>
@@ -65,7 +67,7 @@ Payne, T.J.<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i>, VOL. 132 NO. 619 
 pp.2087-2094, 2006 <a href="http://onlinelibrary.wiley.com/doi/10.1256/qj.05.52/abstract">link</a>
 </li>
-</ol>
+</ul>
 
 
 You can use the [editor on GitHub](https://github.com/timpaynemetoffice/timpaynemetoffice.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
