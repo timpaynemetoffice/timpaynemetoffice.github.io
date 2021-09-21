@@ -1,24 +1,20 @@
 ![IMG_2358](https://user-images.githubusercontent.com/61735396/134166520-306f687d-c56f-4f34-9092-374e3f14e97d.JPG)
 ## Some light reading
 * "A hybrid differential-ensemble linear forecast model for 4D-Var"
-by T. J. Payne  
-
+by T. J. Payne<br>
 Published by _Monthly Weather Review_, December 2020
 [Link](https://journals.ametsoc.org/view/journals/mwre/149/1/mwr-d-20-0088.1.xml)
 
 
 * "Hourly 4D-Var in the Met Office UKV operational forecast model"
-M Milan + 14 others including T J Payne  
-
+M Milan + 14 others including T J Payne<br> 
 _Quarterly Journal of the Royal Meteorological Society_
 Volume 146, Issue728, pages 1281-1301, April 2020 
 [Link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3737)
 
 
-
 * "Rapid Update Cycling with Delayed Observations"
-Tim Payne  
-
+Tim Payne<br>
 _Tellus, Series A: Dynamic Meteorology and Oceanography_ Volume 69, 2017 - Issue 1
 <a href="http://www.tandfonline.com/doi/abs/10.1080/16000870.2017.1409061">link</a>
 
@@ -28,7 +24,7 @@ Lorenc, A. C., Jardak, M., Payne, T., Bowler, N. E. and Wlasak, M. A<br>
 <i>Quarterly Journal of the Royal Meteorological Society</i> 
 Volume 143, Issue 703, pages 798-805, January 2017 
 <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/qj.2965/abstract">link</a>
-<br><br>
+
 
 <li> "The Linearisation of Maps in Data Assimilation"<br>
 Tim Payne<br>
